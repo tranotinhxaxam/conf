@@ -1,0 +1,11 @@
+{
+"API_URL": "https://api-gateway.monerox.net/v2/",
+"USER_TOKEN": "user_token",
+"SOCKET_URL": "wss://socket.monerox.net",
+"LOGIN_IFRAME": true,
+"URL_TOKEN": "token",
+"URL_CODE": "code",
+"IS_PRODUCTION": true,
+"IPMaster1": "wss://bc-master.monerox.net/v3/:443/",
+"IPMaster3": "wss://bc52-master.monerox.net/"
+}
