@@ -5,7 +5,8 @@
 "URL_TOKEN": "token",
 "URL_CODE": "code",
 "IS_PRODUCTION": true,
-  
+"LOBBY_SCENE_NAME": "LobbyNew",
+"LOGIN_SCENE_NAME": "Login",
 "IPMaster1": "wss://bc-master.monerox.net/v3/:443/",
 "IPMaster3": "wss://bc52-master.monerox.net/"
 }
