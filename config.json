@@ -1,12 +1,12 @@
 {
 "API_URL": "https://api-gateway.wsmt8g.com/v2/",
 "USER_TOKEN": "user_token",
-"SOCKET_URL": "wss://socket.wskt25b.com",
+"SOCKET_URL": "wss://socket.wsmt8g.com",
 "URL_TOKEN": "token",
 "URL_CODE": "code",
 "IS_PRODUCTION": true,
 "LOBBY_SCENE_NAME": "LobbyNew",
 "LOGIN_SCENE_NAME": "Login",
 "IPMaster1": "wss://bc-master.wsmt25b.net/v3/:443/",
-"IPMaster3": "wss://bc-master.wskt25b.com/"
+"IPMaster3": "wss://bc-master.wsmt8g.com/"
 }
