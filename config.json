@@ -1,12 +1,15 @@
 {
-"API_URL": "https://api-gateway.wsmt8g.com/v2/",
-"USER_TOKEN": "user_token",
-"SOCKET_URL": "wss://socket.wsmt8g.com",
-"URL_TOKEN": "token",
-"URL_CODE": "code",
-"IS_PRODUCTION": true,
-"LOBBY_SCENE_NAME": "LobbyNew",
-"LOGIN_SCENE_NAME": "Login",
-"IPMaster1": "wss://bc-master.wsmt25b.net/v3/:443/",
-"IPMaster3": "wss://bc-master.wsmt8g.com/"
+    "API_URL": "aHV2c3c/KShpeWMle35jeyh2PGdiOmAlNw==",
+    "SOCKET_URL": "d3JxOSsqcXQ4OCR8f2B6N3c/ZmU=",
+    "IPMaster1": "d3JxOSsqaypuOCR8f2B6N3c/ZmU7YyU4Ii0uKDM=",
+    "IPMaster3": "d3JxOSsqaypuOyR8f2B6N3c/ZmU7",
+    "IPMaster6": "d3JxOSsqaypuPyR8f2B6N3c/ZmU7YyU4",
+    "IPMaster7": "d3JxOSsqaypuPCR8f2B6N3c/ZmU7",
+    "URL_TOKEN": "token",
+    "URL_CODE": "code",
+    "IS_PRODUCTION": true,
+    "LOBBY_SCENE_NAME": "LobbyNew",
+    "LOGIN_SCENE_NAME": "Login",
+    "USER_TOKEN": "user_token",
+    "IS_DECODE": true
 }
