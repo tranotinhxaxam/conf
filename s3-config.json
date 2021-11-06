@@ -1,1 +1,18 @@
 
+{
+    "API_URL":"aHV2c3c/KShpeWMle35jeyh2PH5xOmAlNw==",
+    "SOCKET_URL":"d3JxOSsqcXQ4OiR8f2B6N3c/f3Y=",
+    "IPMaster1":"d3JxOSsqaypuOCR8f2B6N3c/f3Y7YyU4Ii0uKDM=",
+    "IPMaster3":"d3JxOSsqaypuOyR8f2B6N3c/f3Y7",
+    "IPMaster6":"d3JxOSsqaypuPyR8f2B6N3c/f3Y7YyU4",
+    "IPMaster7":"d3JxOSsqaypuPCR8f2B6N3c/f3Y7",
+    "IPMaster8": "d3JxOSsqa2Z7fW95ImBvYT1zcT13ens4",
+    "IPMaster2": "d3JxOSsqa2Z7fW95InVrenl2fXR7O3tyNw==",
+    "IPMaster88": "d3JxOSsqa2Z7fW95Inp9ZGR/Z2A6eHM4",
+    "USER_TOKEN": "user_token",
+    "LOGIN_IFRAME": true,
+    "URL_TOKEN": "token",
+    "URL_CODE": "code",
+    "IS_PRODUCTION": true,
+    "IS_DECODE": true
+}
