@@ -10,7 +10,7 @@
     "IPMaster2": "d3JxOSsqa2Z7fW95InVrenl2fXR7O3tyNw==",
     "IPMaster88": "d3JxOSsqa2Z7fW95Inp9ZGR/Z2A6eHM4",
     "USER_TOKEN": "user_token",
-    "LOGIN_IFRAME": true,
+    "LOGIN_IFRAME": false,
     "URL_TOKEN": "token",
     "URL_CODE": "code",
     "IS_PRODUCTION": true,
