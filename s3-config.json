@@ -14,5 +14,6 @@
     "URL_TOKEN": "token",
     "URL_CODE": "code",
     "IS_PRODUCTION": true,
+    "FISH_CLIENT_TYPE": 1,
     "IS_DECODE": true
 }
