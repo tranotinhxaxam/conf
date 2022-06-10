@@ -1,8 +1,7 @@
-
 {
-    "API_URL":"https://api.wsmt8g.me/v2/",
-    "SOCKET_URL":"wss://ws03.wsmt8g.me",
-    "IPMaster1":"wss://m-f1.wsmt8g.me/v3/:443/",
+    "API_URL":"aHV2c3c/KShpeWMle35jeyh2PH5xOmAlNw==",
+    "SOCKET_URL":"d3JxOSsqcXQ4OiR8f2B6N3c/f3Y=",
+    "IPMaster1":"d3JxOSsqaypuOCR8f2B6N3c/f3Y7YyU4Ii0uKDM=",
     "IPMaster3":"d3JxOSsqaypuOyR8f2B6N3c/f3Y7",
     "IPMaster6":"d3JxOSsqaypuPyR8f2B6N3c/f3Y7YyU4",
     "IPMaster7":"d3JxOSsqaypuPCR8f2B6N3c/f3Y7",
@@ -15,5 +14,5 @@
     "URL_CODE": "code",
     "IS_PRODUCTION": true,
     "FISH_CLIENT_TYPE": 1,
-    "IS_DECODE": false
+    "IS_DECODE": true
 }
