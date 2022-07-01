@@ -1,0 +1,12 @@
+{
+    "API_URL":"aHV2c3c/KShpeWMle35jeyh2PH5xOmAlNw==",
+    "SOCKET_URL":"d3JxOSsqcXQ4OyR8f2B6N3c/f3Y=",
+    "USER_TOKEN":"user_token",
+    "LOGIN_IFRAME":false,
+    "IS_PRODUCTION":true,
+    "IS_DECODE":true,
+    "LOBBY_SCENE_NAME":"Lobby",
+    "LOGIN_SCENE_NAME":"Login",
+    "URL_CODE": "code",
+    "FISH_CLIENT_TYPE":1
+}
