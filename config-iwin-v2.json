@@ -5,7 +5,7 @@
     "USER_TOKEN":"user_token",
     "IS_PRODUCTION":true,
     "IS_DECODE":true,
-    "LOBBY_SCENE_NAME":"Lobby",
+    "LOBBY_SCENE_NAME":"LobbyNew",
     "LOGIN_SCENE_NAME":"Login",
     "URL_CODE": "code",
     "ENABLE_SFX": "enableSound",
