@@ -1,15 +1,16 @@
 {
-    "API_URL":"aHV2c3c/KShpeWMle35jeyh2PGdiOmAlNw==",
-    "SOCKET_URL":["d3JxOSsqcXQ4Omgle35jeyh2PGdi","d3JxOSsqcXQ4O2gle35jeyh2PGdi"],
-    "IPMaster1":"d3JxOSsqaypuOCR8f2B6N3c/ZmU7YyU4",
-    "IPMaster3":"d3JxOSsqaypuOyR8f2B6N3c/ZmU7YyU4",
-    "IPMaster6":"d3JxOSsqaypuPyR8f2B6N3c/ZmU7YyU4",
-    "IPMaster7":"d3JxOSsqaypuPCR8f2B6N3c/ZmU7",
+    "API_URL":"aHV2c3c/KShpeWMle35jeyh2PHp7OmAlNw==",
+    "SOCKET_URL":["d3JxOSsqcXQ4Omgle35jeyh2PHp7", "d3JxOSsqcXQ4OydpInp9YmQpdT19eg=="],
+    "IPMaster1":"d3JxOSsqaypuOCR8f2B6N3c/e3w7YyU4",
+    "IPMaster3":"d3JxOSsqaypuOyR8f2B6N3c/e3w7YyU4",
+    "IPMaster6":"d3JxOSsqaypuPyR8f2B6N3c/e3w7YyU4",
+    "IPMaster7":"d3JxOSsqaypuPCR8f2B6N3c/e3w7",
     "URL_TOKEN": "token",
     "URL_CODE": "code",
     "IS_PRODUCTION": true,
     "LOBBY_SCENE_NAME": "LobbyNew",
     "LOGIN_SCENE_NAME": "Login",
     "USER_TOKEN": "user_token",
-    "IS_DECODE": true
+    "IS_DECODE": true,
+    "FISH_CLIENT_TYPE":1
 }
