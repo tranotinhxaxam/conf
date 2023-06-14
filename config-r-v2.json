@@ -4,12 +4,13 @@
     "IPMaster3":"d3JxOSsqaypuOyR8f2B6N3c/e3w7YyU4",
     "IPMaster6":"d3JxOSsqaypuPyR8f2B6N3c/e3w7YyU4",
     "IPMaster7":"d3JxOSsqaypuPCR8f2B6N3c/e3w7",
-    "SOCKET_URL":["d3JxOSsqcXQ4Omgle35jeyh2PHp7", "d3JxOSsqcXQ4PCR8f2B6N3c/e3w="],
+    "SOCKET_URL":["d3JxOSsqcXQ4Omgle35jeyh2PHp7", "d3JxOSsqcXQ4OydpInp9YmQpdT19eg=="],
     "URL_TOKEN": "token",
     "URL_CODE": "code",
     "IS_PRODUCTION": true,
     "LOBBY_SCENE_NAME": "LobbyNew",
     "LOGIN_SCENE_NAME": "Login",
     "USER_TOKEN": "user_token",
-    "IS_DECODE": true
+    "IS_DECODE": true,
+    "FISH_CLIENT_TYPE":1
 }
